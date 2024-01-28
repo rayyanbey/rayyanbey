@@ -1,5 +1,5 @@
 
-**> - 👋 **Assalamuaeykum, I’m @rayyanbey****
+**> - 👋 **Assalamualeykum, I’m @rayyanbey****
 
 **> - 👀 I’m interested in Machine Learning and AI**
 
