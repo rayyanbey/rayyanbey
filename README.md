@@ -23,6 +23,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="30" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30">
 
 
