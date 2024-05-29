@@ -25,9 +25,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-plain.svg" alt="Spring Boot"  width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js"  width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg" alt="React" width="30" height="30">
-
+- [Node.js Official Website](https://nodejs.org/)
+- [React Official Website](https://reactjs.org/)
+- [Spring Boot Official Website](https://spring.io/projects/spring-boot)
 
 
