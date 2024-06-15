@@ -2,7 +2,7 @@
 
 **> - 👋 **Assalamualeykum, I’m @rayyanbey****
 
-**> - 👀 I’m interested in Machine Learning and AI**
+**> - 👀 I’m interested in Machine Learning and WEB**
 
 **> - 🌱 I’m currently learning python and it's libs like pandas, numpy etc**
 
