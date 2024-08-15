@@ -4,8 +4,6 @@
 
 **> - 👀 I’m interested in Machine Learning and WEB**
 
-**> - 🌱 I’m currently learning python and it's libs like pandas, numpy etc**
-
 **> - 📫 How to reach me Email me @ rayyanasghar9@gmail.com**
 
 **> - ⚡ Fun fact: I am founder and CEO of an youth platform Youth With Vision, do check it out on YouTube,Instagram,Twitter,and Facebook  https://www.youtube.com/@YouthWithVisionYWV**
