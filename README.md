@@ -8,8 +8,6 @@
 
 **> - 📫 How to reach me Email me @ rayyanasghar9@gmail.com**
 
-**> - 😄 I'M A MUSLIM لا إله إلا الله محمد رسول الله**
-
 **> - ⚡ Fun fact: I am founder and CEO of an youth platform Youth With Vision, do check it out on YouTube,Instagram,Twitter,and Facebook  https://www.youtube.com/@YouthWithVisionYWV**
 
 
