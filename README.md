@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [connectify](https://connectify-two-phi.vercel.app/)
 
-- 🌱 I’m currently learning **Electron JS**
+- 🌱 I’m currently learning **New Stuff**
 
 - 👯 I’m looking to collaborate on **Web Dev & ML**
 
