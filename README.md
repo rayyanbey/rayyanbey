@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rayyan Asghar</h1>
+<h1 align="center">Salam 👋, I'm Muhammad Rayyan Asghar</h1>
 <h3 align="center">A software engineer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyanbey&label=Profile%20views&color=0e75b6&style=flat" alt="rayyanbey" /> </p>
 
 - 🔭 I’m currently working on [connectify](https://connectify-two-phi.vercel.app/)
 
-- 🌱 I’m currently learning **New Stuff**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **Web Dev & ML**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-hazel-xi-80.vercel.app/](https://portfolio-hazel-xi-80.vercel.app/)
 
-- 📝 I regularly write articles on [https://rayyanbey.hashnode.dev/](https://rayyanbey.hashnode.dev/)
+- 📝 I write articles on [https://rayyanbey.hashnode.dev/](https://rayyanbey.hashnode.dev/)
 
 - 💬 Ask me about **MERN stack and ML**
 
