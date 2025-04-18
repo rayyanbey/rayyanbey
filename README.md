@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👯 I’m looking to collaborate on **Web Dev & ML**
-
 - 👨‍💻 All of my projects are available at [https://rayyan-web.vercel.app/](https://rayyan-web.vercel.app/)
 
 - 📝 I write articles on [https://rayyanbey.hashnode.dev/](https://rayyanbey.hashnode.dev/)
