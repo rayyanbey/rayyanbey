@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Gen1](https://gen1-design.vercel.app/)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **n8n**
 
 - 👨‍💻 All of my projects are available at [https://rayyan-web.vercel.app/](https://rayyan-web.vercel.app/)
 
